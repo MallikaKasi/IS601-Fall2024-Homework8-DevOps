@@ -23,7 +23,7 @@ docker run -d mallikakasi/is601_hw8_devops:latest
 
   ![image](https://github.com/user-attachments/assets/eadf8d7f-f5b7-432c-a37d-c0f4b5f6be76)
 
-##3 Screenshot that shows successful Build Image and pushed to my Docker Hub account
+## Screenshot that shows successful Build Image and pushed to my Docker Hub account
 
 ![image](https://github.com/user-attachments/assets/a2cd2c38-1072-40e5-9d3a-cca535185b80)
 
