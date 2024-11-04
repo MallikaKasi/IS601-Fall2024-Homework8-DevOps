@@ -10,3 +10,13 @@ For this assignment I want you to watch the following two videos and create your
 ## Screenshots
 
 1.  Put the screenshot of your image in your Docker account here.
+
+## GitHub Workflow Actions Screenshot
+  ![image](https://github.com/user-attachments/assets/eadf8d7f-f5b7-432c-a37d-c0f4b5f6be76)
+
+## Docker Hub Screenshot
+![image](https://github.com/user-attachments/assets/a2cd2c38-1072-40e5-9d3a-cca535185b80)
+
+![image](https://github.com/user-attachments/assets/b320238c-5640-4876-a1a6-0181f430cb11)
+![image](https://github.com/user-attachments/assets/e90e542c-bec5-4925-97e5-3be0fe4a76f2)
+
