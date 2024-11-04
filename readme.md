@@ -17,13 +17,13 @@ docker image pull mallikakasi/is601_hw8_devops:latest
 docker run -d mallikakasi/is601_hw8_devops:latest
 
 
-1.  Screenshot of the image in my Docker account .
+## Screenshot of the image in my Docker account .
 
-## Screenshot that shows GitHub Actions CI Workflow to run tests and build and push the docker image to DockerHub
+### Screenshot that shows GitHub Actions CI Workflow to run tests and build and push the docker image to DockerHub
 
   ![image](https://github.com/user-attachments/assets/eadf8d7f-f5b7-432c-a37d-c0f4b5f6be76)
 
-## Screenshot that shows successful Build Image and pushed to my Docker Hub account
+##3 Screenshot that shows successful Build Image and pushed to my Docker Hub account
 
 ![image](https://github.com/user-attachments/assets/a2cd2c38-1072-40e5-9d3a-cca535185b80)
 
