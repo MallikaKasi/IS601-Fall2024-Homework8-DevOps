@@ -1,20 +1,30 @@
-# Devops - Automated Builds Pushing to Dockeruhub Intro
+# Homework 8  Devops - Automated Builds Pushing to Dockeruhub
 
-For this assignment I want you to watch the following two videos and create your own GitHub Repo from scratch based on this repository.   You will learn to setup a GitHub Action to implement a CI/CD workflow to automaticly test, build and push your program's image to Dockerhub.  Add screen shots to this readme file where indicated that show the image published in your Docker hub account. 
+This repository contains code to setup a GitHub Action to implement a CI/CD workflow to automatically test, build and push my program's image to Dockerhub.  
 
-## Instructor Videos:
+## On cloning the repository
 
-1. [Important Docker Commands to Know](https://youtu.be/B26ecGh8tMw)
-2. [Automated Builds Complete Demo](https://youtu.be/PZVT1IOC0Zo)
-**Note:  I changed the code a little in my workflow to use an improved approach versus whats in the video I separated the jobs and used "needs" to require the test job to complete first**
-## Screenshots
+You can run the following command to run the python file directly:
 
-1.  Put the screenshot of your image in your Docker account here.
+pip install -r requirements.txt && python main.py
 
-## GitHub Workflow Actions Screenshot
+            OR
+            
+Run the following commands to pull the docker image from DockerHub and run
+
+docker image pull mallikakasi/is601_hw8_devops:latest
+
+docker run -d mallikakasi/is601_hw8_devops:latest
+
+
+1.  Screenshot of the image in my Docker account .
+
+## Screenshot that shows GitHub Actions CI Workflow to run tests and build and push the docker image to DockerHub
+
   ![image](https://github.com/user-attachments/assets/eadf8d7f-f5b7-432c-a37d-c0f4b5f6be76)
 
-## Docker Hub Screenshot
+## Screenshot that shows successful Build Image and pushed to my Docker Hub account
+
 ![image](https://github.com/user-attachments/assets/a2cd2c38-1072-40e5-9d3a-cca535185b80)
 
 ![image](https://github.com/user-attachments/assets/b320238c-5640-4876-a1a6-0181f430cb11)
