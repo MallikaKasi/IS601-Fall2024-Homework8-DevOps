@@ -6,9 +6,7 @@ This repository contains code to setup a GitHub Action to implement a CI/CD work
 
 You can run the following command to run the python file directly:
 
-pip install -r requirements.txt && python main.py
-
-            OR
+pip install -r requirements.txt && python main.py  OR
             
 Run the following commands to pull the docker image from DockerHub and run
 
